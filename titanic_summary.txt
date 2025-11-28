@@ -1,0 +1,5 @@
+Overall survival rate: 41.20%
+Female survival: 74.06%, Male survival: 21.59%
+Highest average fare: Pclass 1
+Most common embark value in embark_town: Southampton
+Fare–survival correlation: 0.247
