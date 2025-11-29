@@ -8,4 +8,4 @@
 
 *Visual analysis showing the study of relations between different attributes   #Visual comparison
 
-└── README.md                     # This file
+*README.md                     # This file
